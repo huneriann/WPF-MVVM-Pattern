@@ -1,0 +1,15 @@
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\bin\Debug\WPF_MVVM.exe.config
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\bin\Debug\WPF_MVVM.exe
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\bin\Debug\WPF_MVVM.pdb
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.csprojAssemblyReference.cache
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\obj\Debug\View\Windows\MainWindow.g.cs
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\obj\Debug\App.g.cs
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM_MarkupCompile.cache
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM_MarkupCompile.lref
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\obj\Debug\View\Windows\MainWindow.baml
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.g.resources
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.Properties.Resources.resources
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.csproj.GenerateResource.cache
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.exe
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\obj\Debug\WPF_MVVM.pdb
+C:\Users\hesim\source\repos\WPF_MVVM\WPF_MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
